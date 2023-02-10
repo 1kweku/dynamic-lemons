@@ -1,43 +1,20 @@
-# Getting Started with Create React App
+# Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+My portfolio displays different aspects of the full stack using Javascript, from strictly front end projects such as the Quiz app, backend projects such as ecommerce and projects that utilize both front and back end technologies, such as Movie-Lovers. This portoflio is still a work in progress and will be more polished as my skills develop.
 
-### `npm start`
+## Installation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+As this is a personal portfolio, I ask that this project not be installed, but the links provided in the usage section will allow you to open the app on your local device for further observation. If interested in collaboration, please take a look at my other repositories!
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Usage
 
-### `npm test`
+To access my portfolio, follow this link https://1kweku.github.io/dynamic-lemons/#about, or click the hyper linked image below. Doing so will take you to the about me section where you can learn a little bit about myself. The fully functional navigation bar on the top left of the page allows you to view my resume, contact me and see some of my projects. The footer also provides further links to communicate via Email, Twitter and GitHub.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img width="1440" alt="Screen Shot 2023-02-10 at 12 56 19 AM" src="https://user-images.githubusercontent.com/109449569/218013926-768d38ea-a7ff-400d-a071-9b275e9475f3.png">
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Learn More
 
