@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dynamic-lemons/static/css/main.cb4fdbec.css",
+    "main.js": "/dynamic-lemons/static/js/main.f699b1fe.js",
+    "index.html": "/dynamic-lemons/index.html",
+    "main.cb4fdbec.css.map": "/dynamic-lemons/static/css/main.cb4fdbec.css.map",
+    "main.f699b1fe.js.map": "/dynamic-lemons/static/js/main.f699b1fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb4fdbec.css",
+    "static/js/main.f699b1fe.js"
+  ]
+}
