@@ -1,13 +1,19 @@
 {
   "files": {
     "main.css": "/dynamic-lemons/static/css/main.cb4fdbec.css",
-    "main.js": "/dynamic-lemons/static/js/main.f699b1fe.js",
+    "main.js": "/dynamic-lemons/static/js/main.c16bf9cf.js",
+    "static/media/movie-lovers.png": "/dynamic-lemons/static/media/movie-lovers.5651306c67258df226d5.png",
+    "static/media/randomizer.png": "/dynamic-lemons/static/media/randomizer.a5ea7c29f249c154ab45.png",
+    "static/media/dreamteam.png": "/dynamic-lemons/static/media/dreamteam.0c16d6e1d7f4cb144f08.png",
+    "static/media/note-taker.png": "/dynamic-lemons/static/media/note-taker.3f17e36568d4390bf79d.png",
+    "static/media/quiz.png": "/dynamic-lemons/static/media/quiz.5c6dd4aad318100acedc.png",
+    "static/media/ecommerce.png": "/dynamic-lemons/static/media/ecommerce.4befe2b2c6d22abb9623.png",
     "index.html": "/dynamic-lemons/index.html",
     "main.cb4fdbec.css.map": "/dynamic-lemons/static/css/main.cb4fdbec.css.map",
-    "main.f699b1fe.js.map": "/dynamic-lemons/static/js/main.f699b1fe.js.map"
+    "main.c16bf9cf.js.map": "/dynamic-lemons/static/js/main.c16bf9cf.js.map"
   },
   "entrypoints": [
     "static/css/main.cb4fdbec.css",
-    "static/js/main.f699b1fe.js"
+    "static/js/main.c16bf9cf.js"
   ]
 }
